@@ -1,2 +1,2 @@
-002 Develop 	MNS-01
-002 MNS-01
+002 Develop MNS-01	MNS-02
+002	 		MNS-01	MNS-02
